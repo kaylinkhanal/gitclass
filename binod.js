@@ -1,0 +1,1 @@
+const name = ['b','i','n','o','d'];
