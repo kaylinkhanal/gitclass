@@ -1,2 +1,2 @@
 const users = ['ram','shyam','hari'];
-arr.push('gita');
+users.push('gita');
