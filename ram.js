@@ -5,3 +5,4 @@ const user= {
   }
   user.name = 'rita'
   user
+  
