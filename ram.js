@@ -3,5 +3,5 @@ const user= {
     age:26
   
   }
-  user.name = 'rita'
+  user.name = 'suman'
   user
