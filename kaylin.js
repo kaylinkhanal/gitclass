@@ -1,5 +1,4 @@
-const arr = [3,5,6]
-arr.pop()
-
-
-
+const arr = [4,5,35,56,32]
+arr.map(item=>{
+    return item+10
+})
