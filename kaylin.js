@@ -1,5 +1,1 @@
-const arr = [3,5,6]
-arr.pop()
-
-
-
+const b = 20;
